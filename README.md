@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://i.ibb.co/5ntkfvw/header.png">
 
-<!--
-**zithon/zithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ***Hi there!*** I am beginner Software Engineer
 
-Here are some ideas to get you started:
+### Self Learning Programmer. Started learning when I was 12, still learning.
+_____
+## My skills:
+ - Python
+ - C++
+ - HTML
+ - CSS
+ - Photoshop
+ - Sony Vegas Pro
+_____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:
+1. [GMAIL](olexiienko.iv@gmail.com)
+2. [GITHUB](https://github.com/zithon)
+3. [DISCORD](https://discord.gg/gCHq53DzVP)
